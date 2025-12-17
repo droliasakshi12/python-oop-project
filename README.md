@@ -2,7 +2,7 @@
 <h2>Overview💡</h2>
 <b><li>This includes the project related to the concept of oop in python.</li></b>
 <br>
-<h2>🛒Requirement</h2>
+<h1>🛒Requirement</h1>
 <b>Python version</b>
 <br>
 -Python(3.11.5)<br>
@@ -12,10 +12,10 @@
 -VS Code
 </br>
 <br>
-<h2>🖥️Tech Stack</h2>
+<h1>🖥️Tech Stack</h1>
 <b>- PYTHON</b>
 <br>
-<h2>📑About the project</h2>
+<h1>📑About the project</h1>
 <li>The concept of  <b>object oriented programming (OOP)</b> leads to the ease of programming and in python we can use the different functions in different files by importing them.</li>
 <li>The repository includes <b>5 different projects</b> based on the same concept:</li><br>
 <p>
@@ -26,7 +26,7 @@
   <b>-qr Code Decoder</b> Getting the name and link from the qr.<br>
 </p>
 <br>
-<h2>🛠️ Prerequisites</h2>
+<h1>🛠️ Prerequisites</h1>
 <p><h4>To run this project, you’ll need:</h4></p>
 <li>Python Package installed on your system<br></li>
 <b><li>plyer package</li></b>
@@ -44,7 +44,7 @@ Install by running:<br>
 <pre><code>pip install qrcode[pil]</code></pre>
 <pre><code>pip install opencv-python</code></pre>
 <br>
-<h2>💻Desktop Notification</h2>
+<h1>💻Desktop Notification</h1>
 <p>
   -This is a project for the notification that reflects on the desktop on a particular time.<br>
   -We have imported libraries like <b>- getpass - datatime -plyer</b><br>
@@ -79,7 +79,7 @@ obj=n()
 obj.notify()
 </code></pre>
 <br>
-<h2>😊Emoji Converter</h2>
+<h1>😊Emoji Converter</h1>
 <p>
   😎-This program helps to convert the emoji into the text name of that particular emoji.<br>
   😎-Using the demoji module to perform the program.
@@ -107,7 +107,7 @@ if __name__=="__main__":
 
 
 <br>
-<h2>🖱️Mouse Clicking</h2>
+<h1>🖱️Mouse Clicking</h1>
 <p>
   -In mouse clicking program we just have to hover the mouse and it will be automatically clicked the number of times it is mentioned.<br>
   -hover the cursor on the icon we need to open and it will start the app.
@@ -135,7 +135,7 @@ if __name__=="__main__":
 </code></pre>
 
 <br>
-<h2>🔗qr Code Generator</h2>
+<h1>🔗qr Code Generator</h1>
 <p>
   -This project is to generate the qr code.<br>
   -We have to insert the link for the website or any other platforms for which the qr code is to be generated.
@@ -158,7 +158,7 @@ obj=qr()
 obj.code()
 </code></pre>
 <br>
-<h2>🔗qr code decoder</h2>
+<h1>🔗qr code decoder</h1>
 <p>
   -This helps in decoding the qe code.
   -In this project the qr code is given it helps to get the link for the qrcode.
