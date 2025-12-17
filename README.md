@@ -197,7 +197,8 @@ obj.qrdecode()
 🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
 </br>
 <h4>Credits</h4>
-<b></b>Future Vision Computer Institute</b>
+<b></b>Future Vision Computer Institute</b><br>
+🌐 Website : https://futurevisioncomputers.com/
 <br>
 <b><h5>Author</h5></b>
 <h6><b>Sakshi Drolia</b></h6>
