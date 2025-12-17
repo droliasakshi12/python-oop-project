@@ -1,8 +1,22 @@
-<h1>✏️PYTHON OBJECT ORIENTED PROGRAMMING</h1>
-<li>This includes the project related to the concept of oop in python.</li>
+<h1>PYTHON OBJECT ORIENTED PROGRAMMING🐍</h1>
+<h2>Overview💡</h2>
+<b><li>This includes the project related to the concept of oop in python.</li></b>
+<br>
+<h2>🛒Requirement</h2>
+<b>Python version</b>
+<br>
+-Python(3.11.5)<br>
+<br>
+<b>IDE/Code Editor</b>
+<br>
+-VS Code
+</br>
+<br>
+<h2>🖥️Tech Stack</h2>
+<b>- PYTHON</b>
 <br>
 <h2>📑About the project</h2>
-<li>The concept of oop leads to the ease of programming and in python we can use the different functions in different files by importing them.</li>
+<li>The concept of  <b>object oriented programming (OOP)</b> leads to the ease of programming and in python we can use the different functions in different files by importing them.</li>
 <li>The repository includes <b>5 different projects</b> based on the same concept:</li><br>
 <p>
   <b>-Desktop Notification : </b> Displays the time in notification.<br>
@@ -39,8 +53,8 @@ Install by running:<br>
   -Using plyer package to get the notification.<br>
 </p>
 <br>
-<h2>👩‍💻Code - Desktop Notification App</h2>
 
+<h2>👩‍💻Code - Desktop Notification App</h2>
 <br>
 <pre><code>
 import getpass
@@ -64,11 +78,11 @@ class n():
 obj=n()
 obj.notify()
 </code></pre>
-
+<br>
 <h2>😊Emoji Converter</h2>
 <p>
-  -This program helps toconvert the emoji into the text name of that particular emoji.<br>
-  -Using the demoji module to perform the program.
+  😎-This program helps to convert the emoji into the text name of that particular emoji.<br>
+  😎-Using the demoji module to perform the program.
 </p>
 <br>
 <h2>👩‍💻Code - Emoji Converter</h2>
@@ -143,7 +157,7 @@ class qr():
 obj=qr()
 obj.code()
 </code></pre>
-
+<br>
 <h2>🔗qr code decoder</h2>
 <p>
   -This helps in decoding the qe code.
@@ -174,6 +188,7 @@ class decode():
 obj=decode()
 obj.qrdecode()
 </code></pre>
+<br>
 <b><p>⭐ If you found this repository useful, consider giving it a star!</p>
   <p>Happy Coding 🐍✨</p></b>
 <br>
@@ -181,10 +196,8 @@ obj.qrdecode()
 📩 Email   : droliasakshi601@gmail.com <br>
 🔗 Linkdin : https://www.linkedin.com/in/sakshi-drolia12<br>
 </br>
-
-
 <h4>Credits</h4>
 <b></b>Future Vision Computer Institute</b>
 <br>
 <b><h5>Author</h5></b>
-<b>Sakshi Drolia</b>
+<h6><b>Sakshi Drolia</b></h6>
